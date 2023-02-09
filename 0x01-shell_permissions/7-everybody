@@ -1,2 +1,2 @@
 #!/bin/bash
-u=-rw+x g=-rw+x o=-rw+x
+--x--x--x
